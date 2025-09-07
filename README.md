@@ -24,8 +24,6 @@ Login con **usuario y clave** →
 
 ---
 
-## 👩‍💻 Autoría  
-**Tamara Gisele Herrera**  
 UTN – Facultad Regional General Pacheco  
 
 ---
